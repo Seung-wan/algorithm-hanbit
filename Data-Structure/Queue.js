@@ -16,7 +16,7 @@
 //     console.log(this.queue);
 //   }
 // }
-let Queue = (function Queue() {
+let Queue = (function () {
   function Queue() {
     this.queue = [];
   }
